@@ -1,7 +1,7 @@
 Chopped Generator
 =================
 
-Randomly generate appetizer, entrée, and dessert round baskets, à la the Food Network show "Chopped."
+Randomly generate appetizer, entrée, and dessert round baskets, à la the Food Network show ["Chopped."](https://www.youtube.com/watch?v=_yYVTu2aoKI)
 
 ```
 $ python chopped_generator.py
